@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: 'Things to do in Dubai',
-  author: 'Tails Azimuth',
+  author: 'Imran M Bajwa',
   headerTitle: 'ThingsToDoInDubai',
   description: 'Things to do in Dubai - A complete guide for your Dubai trip',
   language: 'en-us',
@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  email: 'info@thingstodoindubai.info',
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
