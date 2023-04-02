@@ -1,4 +1,4 @@
---
+---
 title: 'Top seven things to do in Dubai'
 date: '2023-04-01'
 tags: ['top seven things to do in dubai', 'things to do in dubai', 'dubai']
