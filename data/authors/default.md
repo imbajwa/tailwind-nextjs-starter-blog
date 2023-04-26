@@ -2,7 +2,7 @@
 name: Emran Bajwa
 avatar: /static/images/avatar.png
 occupation: Travel blogger
-company: Stanford University
+company: GOING2DUBAI
 email: imran@going2dubai.com
 twitter: https://twitter.com/imranbajwa
 linkedin: https://www.linkedin.com/in/imran-bajwa-49217b1a/
