@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Emran Bajwa
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
+occupation: Travel blogger
 company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+email: imran@going2dubai.com
+twitter: https://twitter.com/imranbajwa
+linkedin: https://www.linkedin.com/in/imran-bajwa-49217b1a/
+github: https://github.com/ediexpert
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Emran Bajwa is a travel blogger and a software engineer. Deep interest in travelling brought his attention to write about it so that millions of travellers can get benefit from the information which he has.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He works with tourism industries of Europe and Middel East to resolve the challanges of travellers and make their experice as smooth as possible with government prospective.
